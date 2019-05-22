@@ -61,3 +61,5 @@
 * Yu-Chen Lin (npes87184) - Virtio and qemu-img notes
 
 * Wen-He - Catalina related fixes
+
+* Morgan Lombard - Default Resolution 1920x1080
